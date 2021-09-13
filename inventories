@@ -1,6 +1,10 @@
 [all]
 159.65.18.142 
 139.59.191.22
+178.62.18.232
 
 [all:vars]
-ansible_python_interpreter=/usr/bin/python3 
+ansible_python_interpreter=/usr/bin/python3
+
+
+ 
